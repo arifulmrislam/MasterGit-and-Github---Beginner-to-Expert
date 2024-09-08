@@ -8,8 +8,7 @@
 - gitignore and README
 - Branching and Merging
 - Collaboration and Contribution
-- 
 
 #### 🎓 Certificate
 
-![](https://github.com/arifulmrislam/Mastering-VSCode/blob/main/image/UC.jpg)
+![](UC-44ed46c9-215f-45b7-8c3c-5270466f90a0.jpg)
